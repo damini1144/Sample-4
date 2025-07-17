@@ -70,3 +70,9 @@ body, html {
     padding: 20px;
   }
 }
+
+.whatsapp-button img {
+    width: 70px; /* Default is 24px or 32px; increasing for mobile */
+    height: 70px;
+  }
+}
